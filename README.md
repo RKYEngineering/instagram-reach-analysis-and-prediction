@@ -1,6 +1,6 @@
 # 📊 Instagram Reach Analysis and Impression Prediction
 
-![Project Banner](https://github.com/RKYEngineering/instagram-reach-analysis-and-prediction/blob/main/instagram-reach-analysis-banner.png)
+![Project Banner](https://github.com/RKYEngineering/instagram-reach-analysis-and-prediction/blob/main/ira.png)
 
 ## 📌 Project Overview
 
