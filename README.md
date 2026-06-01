@@ -144,9 +144,9 @@ instagram-reach-analysis/
 │
 ├── data/
 │   └── instagram_reach_dataset.csv
-├── Instagram_Reach_Analysis_and_Prediction.ipynb
 ├── README.md
-└── instagram-reach-analysis-banner.png
+├── instagram-reach-analysis-banner.png
+└── instagram_reach_analysis_and_prediction.ipynb
 ```
 
 ---
